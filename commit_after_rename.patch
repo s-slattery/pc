@@ -1,0 +1,11 @@
+Index: s.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/s.py b/s.py
+new file mode 100644
+--- /dev/null	(date 1611387009334)
++++ b/s.py	(date 1611387009334)
+@@ -0,0 +1,1 @@
++print('s')
